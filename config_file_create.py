@@ -22,7 +22,7 @@ if __name__ == "__main__":
         'META_PATH': './data/Meta/',
         # Mask Threshold is the np.sum(MASK) threshold. Some Masks are too small.
         # We remove these small images,masks as they might act as outliers
-        # The threshold 8 was decided by empirical evaluation.
+        # The threshold 18 was decided by empirical evaluation.
         'Mask_Threshold': 18
     }
 
