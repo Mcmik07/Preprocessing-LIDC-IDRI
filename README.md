@@ -54,7 +54,7 @@ Running this script will create a configuration file 'lung.conf'
 This utils.py script contains function to segment the lung. Segmenting the lung and nodule are two different things. Segmenting the lung leaves the lung region only, while segmenting the nodule is finding prosepctive lung nodule regions in the lung. Don't get confused. 
 
 ```bash
-python prepare_dataset.py
+python prepare_dataset_2.py
 ```
 This python script will create the image, mask files and save them to the data folder. The script will also create a meta_info.csv file containing information about whether the nodule is
 cancerous. In the LIDC Dataset, each nodule is annotated at a maximum of 4 doctors. Each doctors have annotated the malignancy of each nodule in the scale of 1 to 5. 
