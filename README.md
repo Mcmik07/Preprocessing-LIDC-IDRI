@@ -97,6 +97,4 @@ I started this Lung cancer detection project a year ago. I was really a newbie t
 for some personal reasons. I looked through google and other githubs. But most of them were too hard to understand and the code itself lacked information. I hope my codes here could help
 other researchers first starting to do lung cancer detection projects. Please give a star if you found this repository useful.
 
-here is the link of github where I learned a lot from. Some of the codes are sourced from below.
-1. https://github.com/mikejhuang/LungNoduleDetectionClassification
 
